@@ -26,4 +26,4 @@ test: hamming_test
 	./Test
 
 clean:
-	rm *.{hi,o}
+	rm *.{hi,o} decoder encoder noisegen Test
